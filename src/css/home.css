@@ -1,0 +1,55 @@
+.jumbotron {
+    background-image: url("../images/dusk.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 400px;
+    height: 100vh; 
+    width: 100%;
+    margin-bottom: 0;
+    margin-left:0;
+    margin-right:0;
+}
+
+.jumbotron .ui.text.menu{
+    margin-top:0;
+    text-align: right;
+}
+
+.jumbotron .ui.text.menu .item{
+    margin-right: 1rem;
+}
+
+.jumbotron .ui.text.menu .item.last-one{
+    margin-right: 20%;
+}
+
+.jumbotron .link{
+    color: rgba(218, 199, 199, 0.927);
+    font-size: 1.275rem;
+}
+
+.jumbotron .link:hover{
+    color: rgb(178, 207, 243);
+}
+
+.intro.ui.grid{
+    color: rgb(231, 220, 235);
+    font-size: 1.75rem;
+    margin-top: 10%;
+}
+
+.intro.ui.grid .link{
+    color: white;
+    font-size: 1.95rem;
+}
+
+.arrow.right{
+    color:rgba(255, 255, 255, 0.694)!important;
+}
+
+.footer{
+    color: rgb(159, 159, 245);
+    position:absolute;
+    bottom:0;
+}

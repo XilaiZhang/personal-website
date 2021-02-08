@@ -1,0 +1,44 @@
+.ui.grid {
+    padding: 0 17% !important;
+}
+
+.ui.grid .image-wrapper{
+    padding: auto;
+}
+
+.ui.grid .pic{
+    display: block !important;
+    margin: 0 auto !important;
+    /* margin-left:20% !important;
+    margin-right: auto; */
+}
+
+.ui.grid .pic-school{
+    display: block !important;
+    width: 100% !important;
+}
+
+.ui.grid .pic-kickstart{
+    display: block !important;
+    width: 100% !important;
+}
+
+.ui.grid .react.icon{
+    display: block !important;
+    width: 100% !important;
+}
+
+.ui.grid .education{
+    text-align: center;
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.section.divider{
+    line-height: 2px!important;
+    background: #200122!important;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #6f0000, #200122)!important;  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #6f0000, #200122)!important; /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
